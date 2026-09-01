@@ -54,14 +54,7 @@ param=25=239
 param=5=1
 param=6=0
 param=2=https://payments.jagex.com/
-param=w1min=0
-param=w1max=0
-param=w1order=1
-param=w1host=192.168.0.217
-param=w1players=0
-param=w1location=0
-param=w1activity=Development
-param=w1mask=1
+param=17=https://raw.githubusercontent.com/NaviNieve/jav_config/refs/heads/main/239.1/world_list.ws
 param=20=https://social.auth.jagex.com/
 param=11=https://auth.jagex.com/
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
